@@ -23,6 +23,7 @@
 		E485BE262B80080000FB6113 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E485BE1C2B80080000FB6113 /* nssl0043.jpg */; };
 		E485BE272B80080000FB6113 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E485BE1D2B80080000FB6113 /* nssl0033.jpg */; };
 		E485BE282B80080000FB6113 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E485BE1E2B80080000FB6113 /* nssl0034.jpg */; };
+		E485BE2A2B80F18C00FB6113 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E485BE292B80F18C00FB6113 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		E485BE1C2B80080000FB6113 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
 		E485BE1D2B80080000FB6113 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		E485BE1E2B80080000FB6113 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
+		E485BE292B80F18C00FB6113 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				E485BE002B80070900FB6113 /* AppDelegate.swift */,
 				E485BE022B80070900FB6113 /* SceneDelegate.swift */,
 				E485BE042B80070900FB6113 /* ViewController.swift */,
+				E485BE292B80F18C00FB6113 /* DetailViewController.swift */,
 				E485BE062B80070900FB6113 /* Main.storyboard */,
 				E485BE142B80080000FB6113 /* Content */,
 				E485BE092B80070A00FB6113 /* Assets.xcassets */,
@@ -189,6 +192,7 @@
 				E485BE052B80070900FB6113 /* ViewController.swift in Sources */,
 				E485BE012B80070900FB6113 /* AppDelegate.swift in Sources */,
 				E485BE032B80070900FB6113 /* SceneDelegate.swift in Sources */,
+				E485BE2A2B80F18C00FB6113 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
